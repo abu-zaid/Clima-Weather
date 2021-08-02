@@ -1,6 +1,6 @@
 # Clima Weather
 
-BMI Calculator is a cross platform application where people can check there BMI easily.
+Clima Weather is a cross platform application where people can check there BMI easily.
 
 ## Screenshots
 
